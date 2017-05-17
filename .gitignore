@@ -1,0 +1,19 @@
+pkg
+bin
+
+# vscode
+.vscode
+
+# vim
+*.swp
+*.rdb
+
+# go vendor
+verdor
+
+# mac
+.DS_Store
+
+# data
+*.dat
+*.csv

@@ -1,0 +1,6 @@
+hash: 6da486c0923f00ce580a3ee633ae17159a2884b614d5b0f408b683e66ad8ad7e
+updated: 2017-05-15T17:41:42.362699176+08:00
+imports:
+- name: github.com/yanyiwu/gojieba
+  version: 6e14c5c21cec8e7b26f319f3bcc3dddffacc703a
+testImports: []

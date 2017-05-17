@@ -1,0 +1,4 @@
+package: .
+import:
+- package: github.com/yanyiwu/gojieba
+  version: ^1.0.0
